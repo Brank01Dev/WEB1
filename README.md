@@ -1,6 +1,6 @@
-# Personal Web Portfolio
+# Simple WEB page for exercise
 
-A basic personal website made with HTML & CSS. Created as part of learning web development.
+A basic vanilla website made with HTML & CSS. Created as part of learning web development.
 
 ## Features
 - Clean design
